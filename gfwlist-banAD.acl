@@ -19,10 +19,7 @@
 [outbound_block_list]
 # 禁止访问列表
 (^|\.)\w*hanime\w*\.\w*$
-110.42.6.67
 (^|\.)\w*aqdav\w*\.\w*$
-(^|\.)\w*aqdav\w*\.\w*$
-(^|\.)\w*aqd11\w*\.\w*$
 # 广告关键词
 (^|\.)\w*admarvel\w*\.\w*$
 (^|\.)\w*admaster\w*\.\w*$
