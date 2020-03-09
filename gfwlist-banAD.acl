@@ -18,6 +18,7 @@
 #**********************************************************************
 [outbound_block_list]
 # 禁止访问列表
+(^|\.)\w*hanime\w*\.\w*$
 
 # 广告关键词
 (^|\.)\w*admarvel\w*\.\w*$
@@ -1534,7 +1535,7 @@
 ^(.*\.)?localhost$
 ^(.*\.)?ip6-localhost$
 ^(.*\.)?ip6-loopback$
-
+(^|\.)\w*aqdav51\w*\.\w*$
 # Router managed 路由器管理域名
 (^|\.)hiwifi\.com$
 (^|\.)leike\.cc$
